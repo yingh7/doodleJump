@@ -34,5 +34,4 @@ public class Player {
       if( pos.x < 0) pos.x = 480;
     }
   }
-  
 }
